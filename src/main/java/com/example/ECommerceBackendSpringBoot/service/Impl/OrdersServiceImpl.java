@@ -106,7 +106,7 @@ public class OrdersServiceImpl implements OrdersService {
                 "\n" +
                 "Best regards,\n" +
                 "\n" +
-                "Pratik Bhagwat\n" +
+                "Deepak Kumar\n" +
                 "ShopWave";
         String subject = "Your order is confirmed!";
 
